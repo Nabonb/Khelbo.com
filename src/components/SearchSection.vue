@@ -69,7 +69,7 @@
   .inp-icon {
     position: absolute;
     top: 50%;
-    left: 15px; /* Adjust the position as needed */
+    left: 15px; 
     transform: translateY(-50%);
   }
   .inp-name-img{
